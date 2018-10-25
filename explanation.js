@@ -84,3 +84,6 @@
 //     }
 //   }
 // }
+
+// :* Use Webpack Merge to merge config objects *:
+// Store peaces of config objects in separate files, that usualy placed in built-utils
